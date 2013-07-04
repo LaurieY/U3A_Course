@@ -1,0 +1,7 @@
+; $Id$
+name = Course
+description = Module for U3A Course entry and editing
+;dependencies[] = content
+;dependencies[] = text
+dependencies[] = cck_time
+core = 7.x
